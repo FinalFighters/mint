@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa87fe73d656596eb561f0c6bc68bf4f9aab672d9",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0xa87fe73d656596eb561f0c6bc68bf4f9aab672d9",
+  "NETWORK": {
+    "NAME": "Polygon Mumbai Testnet",
+    "SYMBOL": "Matic",
+    "ID": 201
+  },
+  "NFT_NAME": "Final Fighters",
+  "SYMBOL": "FF",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 300000000000000000,
+  "DISPLAY_COST": 0.3,
+  "GAS_LIMIT": 350000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/final-fighters",
+  "SHOW_BACKGROUND": true
+}
